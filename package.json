@@ -1,0 +1,13 @@
+{
+  "name": "turnoff-preview-cursorpos",
+  "main": "./lib/turnoff-preview-cursorpos",
+  "version": "0.0.0",
+  "description": "Move cursor to  better position when turn off preview (maybe).",
+  "keywords": [],
+  "repository": "https://github.com/inkdropapp/turnoff-preview-cursorpos",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^4.x"
+  },
+  "dependencies": {}
+}
