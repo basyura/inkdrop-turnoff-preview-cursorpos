@@ -1,7 +1,7 @@
 {
   "name": "turnoff-preview-cursorpos",
   "main": "./lib/turnoff-preview-cursorpos",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Move cursor to  better position when turn off preview (maybe).",
   "keywords": [],
   "repository": "https://github.com/basyura/inkdrop-turnoff-preview-cursorpos",
