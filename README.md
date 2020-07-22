@@ -2,6 +2,12 @@
 
 Move cursor to better position when turn off preview (maybe).
 
+## Install
+
+```
+ipm install turnoff-preview-cursorpos
+```
+
 ## Settings
 
 ```json
